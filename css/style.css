@@ -1,0 +1,44 @@
+#city{
+    height: auto;
+    width: 250px;
+    font-size: 20px;
+    border-radius:10px;
+    padding: 8px;
+    box-shadow: 2px 2px 3px black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#btn{
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgb(156, 156, 228);
+    padding: 5px;
+    box-shadow: 2px 2px 3px black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+   
+   height: auto;
+   width: 350px;
+   padding: 20px;
+   background-color: transparent;
+   border-radius: 10px;
+   text-align: center;
+   margin: auto;
+   margin-top: 50px;
+   
+}
+body{
+    background-image: url("https://images.pexels.com/photos/417063/pexels-photo-417063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#content{
+    display:flex;
+    flex-direction:row;
+    padding: 20px;
+    padding-top: 20px;
+
+}
+#img{
+    padding-left:10px;
+}
